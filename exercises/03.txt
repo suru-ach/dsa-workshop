@@ -1,0 +1,4 @@
+// Question 3
+
+Write a function that reverses the order of an array and prints it.
+

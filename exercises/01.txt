@@ -1,0 +1,3 @@
+// Question 1
+
+Calculate and display the factorial of an integer 'n' by taking 'n' as an input.
