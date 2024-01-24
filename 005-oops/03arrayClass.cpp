@@ -1,0 +1,1 @@
+// implement arrayClass for double
