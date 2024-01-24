@@ -47,6 +47,10 @@ Happy coding!
 
 ## Resources
 
+[(begin C++) Resources for C++ Beginners](https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613)
+
+[CPP Learning Resources](https://github.com/RedSkittleFox/Cpp-Learning-Resources)
+
 ### References
 
 [cplusplus.com Tutorial](https://cplusplus.com/doc/tutorial/)
@@ -57,9 +61,13 @@ Happy coding!
 
 [cppreference.com C++ Container Library](https://en.cppreference.com/w/cpp/container)
 
+
+
 ### Platforms
 
 [hackerrank](https://www.hackerrank.com/)
 
 [leetcode](https://leetcode.com/)
+
+[geeksforgeeks](https://www.geeksforgeeks.org/)
 
