@@ -47,6 +47,8 @@ Happy coding!
 
 ## Resources
 
+### Github Links
+
 [(begin C++) Resources for C++ Beginners](https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613)
 
 [CPP Learning Resources](https://github.com/RedSkittleFox/Cpp-Learning-Resources)
