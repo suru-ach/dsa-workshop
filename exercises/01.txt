@@ -1,3 +1,19 @@
-// Question 1
+// Question 1.1
 
 Calculate and display the factorial of an integer 'n' by taking 'n' as an input.
+
+fact(1) = 1
+fact(2) = 2
+fact(3) = 6
+
+// Question 1.2
+
+Display the binary representation of integer 'n' by taking 'n' as an input.
+
+decimal     binary
+1       =   0001 
+2       =   0010
+3       =   0011
+4       =   0100
+5       =   0101
+6       =   0110
